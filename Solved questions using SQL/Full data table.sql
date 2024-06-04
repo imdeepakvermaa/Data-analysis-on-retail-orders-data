@@ -1,0 +1,1 @@
+select * from retail_orders.retail_orders_data;
